@@ -4,6 +4,7 @@
 
 - [Satélite ALOS sensor PRISM](http://www.engesat.com.br/imagem-de-satelite/alos-prism/) 
 O satélite ALOS da missão ALOS (Advanced Land Observing Satellite) que foi lançado em 24 de janeiro de 2006 pela Japan Aerospace Exploration Agency – JAXA pode ser descrito como algo que se aproxima ALOS do satélite ideal, por oferecer imagens de alta ( PRISM de 2,50 m PAN)  e média (AVNIR-2 de 10 m colorido)  resolução e também imagens Radar. Com farto catalogo de imagens adquiridas, ele ainda é muito procurado e oferece dados de ótima qualidade radiométrica e geométrica.
+
 | Agência                    | JAXA                     | JAXA                      |
 |----------------------------|--------------------------|---------------------------|
 | País/Regisão               | Japão                    | Japão                     |
