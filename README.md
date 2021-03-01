@@ -2,7 +2,7 @@
 
 ## Satélites para aquisição/montagem de imagens estereoscópicas
 
-- [Satélite ALOS sensor PRISM](http://www.engesat.com.br/imagem-de-satelite/alos-prism/) 
+#### [Satélite ALOS sensor PRISM](http://www.engesat.com.br/imagem-de-satelite/alos-prism/) 
 O satélite ALOS da missão ALOS (Advanced Land Observing Satellite) que foi lançado em 24 de janeiro de 2006 pela Japan Aerospace Exploration Agency – JAXA pode ser descrito como algo que se aproxima ALOS do satélite ideal, por oferecer imagens de alta ( PRISM de 2,50 m PAN)  e média (AVNIR-2 de 10 m colorido)  resolução e também imagens Radar. Com farto catalogo de imagens adquiridas, ele ainda é muito procurado e oferece dados de ótima qualidade radiométrica e geométrica.
 
 | Agência                    | JAXA                     | JAXA                      |
@@ -22,14 +22,25 @@ O satélite ALOS da missão ALOS (Advanced Land Observing Satellite) que foi lan
 | Tempo de Vida Projetado    | 3 a 5 anos               | 3 a 5 anos                |
 | Instrumentos Sensores      | PRISM, AVNIR-2 e PALSAR  | PRISM, AVNIR-2 e PALSAR-2 |
 
-Sensor **P.R.I.S.M.** - **Panchromatic Remote-sensing Instrument for Stereo Mapping**
+- Cartografia de precisão;
+- Elaboração de Modelos Digitais de Superfície;
+- Planejamento urbano e regional;
+- Monitoramento de desastres naturais;
+- Levantamento de recursos naturais;
+- Mapeamento de uso e cobertura das terras;
+- Estimativa de biomassa;
+- Extração de dados topográficos por interferometria.
+
+##### Sensor **P.R.I.S.M.** - **Panchromatic Remote-sensing Instrument for Stereo Mapping**
+
 O PRISM é um radiômetro pancromático com resolução espacial de 2,5 metros. Possui três sistemas ópticos independentes, muito importantes na produção de pares estereoscópicos, com capacidade de obter dados no nadir e em visadas laterais de 24º. Os telescópios possuem espelhos e câmeras CCD e obtém cenas de 70 km ou 35 km de acordo com a inclinação do sensor. O PRISM fornece dados com alta acurácia (1 metro) para elaboração de modelos digitais de superfície e de levantamentos topográficos com escala de até 1:25.000. Devido ao caráter não comercial do sistema ALOS que oferece imagens a baixo custo, o sensor PRISM pode ser interessante aos países que ainda não possuem levantamentos sistemáticos do relevo, como o caso do Brasil. O sensor não consegue obter imagens em áreas localizadas acima de 82º de latitudes Norte ou Sul.
 
 | Sensor | Bandas Espectrais | Resolução Espectral | Resolução Espacial | Resolução Radiométrica | Área Imageada                                     |
 |--------|-------------------|---------------------|--------------------|------------------------|---------------------------------------------------|
 | PRISM  | PANCROMÁTICO      | 0.52 - 0.77 µm      | 2,5 m              | 8 bits                 | Faixas de 35 km (visada lateral) ou 70 km (nadir) |
 
-Sensor **A.V.N.I.R.-2** - **Advanced Visible and Near Infrared Radiometer type 2**
+##### Sensor **A.V.N.I.R.-2** - **Advanced Visible and Near Infrared Radiometer type 2**
+
 O AVNIR-2 é um radiômetro que opera nas regiões do visível e infravermelho, desenvolvido para mapeamentos temáticos em escalas de até 1:50.000, com ênfase em uso e cobertura das terras. É o sucessor do AVNIR que esteve a bordo do satélite ADEOS-I, lançado em 1996. A área de imageamento do sensor limita-se aos paralelos de 88,4º de latitude Norte e 88,5º de latitude Sul.
 
 | Sensor  | Bandas Espectrais | Resolução Espectral | Resolução Espacial | Resolução Radiométrica | Área Imageada |
@@ -39,7 +50,8 @@ O AVNIR-2 é um radiômetro que opera nas regiões do visível e infravermelho, 
 | AVNIR-2 | 3                 | 0.61-0.69 µm        | 10 m               | 8 bits                 | 70 km (nadir) |
 | AVNIR-2 | 4                 | 0.76-0.89 µm        | 10 m               | 8 bits                 | 70 km (nadir) |
 
-Sensor **P.A.L.S.A.R. - Phased Array L-band Synthetic Aperture Radar**
+##### Sensor **P.A.L.S.A.R. - Phased Array L-band Synthetic Aperture Radar**
+
 O PALSAR é um radar de abertura sintética que opera na Banda L, capaz de obter imagens diurnas ou noturnas e em quaisquer condições atmosféricas. Foi desenvolvido pela Japan Aerospace Exploration Agency (JAXA) em parceria com a Japan Resources Observation System Organization (JAROS) e derivou-se da tecnologia que esteve a bordo do satélites JERS-1. O sensor não consegue obter imagens em áreas localizadas acima de 87,8º de latitude Norte e 75,9º de latitude Sul.
 
 | Sensor | Canais/Bandas Espectrais | Frequência         | Compr. de Onda | Ângulo de Visada | Polarização    | Resol.ução Espacial | Resolução Temporal | Resolução Radiométrica | Área Imageada |
