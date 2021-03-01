@@ -22,6 +22,33 @@ O satélite ALOS da missão ALOS (Advanced Land Observing Satellite) que foi lan
 | Tempo de Vida Projetado    | 3 a 5 anos               | 3 a 5 anos                |
 | Instrumentos Sensores      | PRISM, AVNIR-2 e PALSAR  | PRISM, AVNIR-2 e PALSAR-2 |
 
+Sensor **P.R.I.S.M.** - **Panchromatic Remote-sensing Instrument for Stereo Mapping**
+O PRISM é um radiômetro pancromático com resolução espacial de 2,5 metros. Possui três sistemas ópticos independentes, muito importantes na produção de pares estereoscópicos, com capacidade de obter dados no nadir e em visadas laterais de 24º. Os telescópios possuem espelhos e câmeras CCD e obtém cenas de 70 km ou 35 km de acordo com a inclinação do sensor. O PRISM fornece dados com alta acurácia (1 metro) para elaboração de modelos digitais de superfície e de levantamentos topográficos com escala de até 1:25.000. Devido ao caráter não comercial do sistema ALOS que oferece imagens a baixo custo, o sensor PRISM pode ser interessante aos países que ainda não possuem levantamentos sistemáticos do relevo, como o caso do Brasil. O sensor não consegue obter imagens em áreas localizadas acima de 82º de latitudes Norte ou Sul.
+
+| Sensor | Bandas Espectrais | Resolução Espectral | Resolução Espacial | Resolução Radiométrica | Área Imageada                                     |
+|--------|-------------------|---------------------|--------------------|------------------------|---------------------------------------------------|
+| PRISM  | PANCROMÁTICO      | 0.52 - 0.77 µm      | 2,5 m              | 8 bits                 | Faixas de 35 km (visada lateral) ou 70 km (nadir) |
+
+Sensor **A.V.N.I.R.-2** - **Advanced Visible and Near Infrared Radiometer type 2**
+O AVNIR-2 é um radiômetro que opera nas regiões do visível e infravermelho, desenvolvido para mapeamentos temáticos em escalas de até 1:50.000, com ênfase em uso e cobertura das terras. É o sucessor do AVNIR que esteve a bordo do satélite ADEOS-I, lançado em 1996. A área de imageamento do sensor limita-se aos paralelos de 88,4º de latitude Norte e 88,5º de latitude Sul.
+
+| Sensor  | Bandas Espectrais | Resolução Espectral | Resolução Espacial | Resolução Radiométrica | Área Imageada |
+|---------|-------------------|---------------------|--------------------|------------------------|---------------|
+| AVNIR-2 | 1                 | 0.42-0.50 µm        | 10 m               | 8 bits                 | 70 km (nadir) |
+| AVNIR-2 | 2                 | 0.52-0.60 µm        | 10 m               | 8 bits                 | 70 km (nadir) |
+| AVNIR-2 | 3                 | 0.61-0.69 µm        | 10 m               | 8 bits                 | 70 km (nadir) |
+| AVNIR-2 | 4                 | 0.76-0.89 µm        | 10 m               | 8 bits                 | 70 km (nadir) |
+
+Sensor **P.A.L.S.A.R. - Phased Array L-band Synthetic Aperture Radar**
+O PALSAR é um radar de abertura sintética que opera na Banda L, capaz de obter imagens diurnas ou noturnas e em quaisquer condições atmosféricas. Foi desenvolvido pela Japan Aerospace Exploration Agency (JAXA) em parceria com a Japan Resources Observation System Organization (JAROS) e derivou-se da tecnologia que esteve a bordo do satélites JERS-1. O sensor não consegue obter imagens em áreas localizadas acima de 87,8º de latitude Norte e 75,9º de latitude Sul.
+
+| Sensor | Canais/Bandas Espectrais | Frequência         | Compr. de Onda | Ângulo de Visada | Polarização    | Resol.ução Espacial | Resolução Temporal | Resolução Radiométrica | Área Imageada |
+|--------|--------------------------|--------------------|----------------|------------------|----------------|---------------------|--------------------|------------------------|---------------|
+| PALSAR | Fine - single            | 1270 MHz (Banda L) | Sem Informação | 8º - 60º         | HH ou VV       | 7 - 44 m            | Sem Informação     | 5 bits                 | 40 - 70 km    |
+| PALSAR | Fine - dual              | 1270 MHz (Banda L) | Sem Informação | 8º - 60º         | HH+HV ou VV+VH | 14 - 88 m           | Sem Informação     | 5 bits                 | 40 - 70 km    |
+| PALSAR | ScanSAR                  | 1270 MHz (Banda L) | Sem Informação | 18º - 43º        | HH ou VV       | 100 m               | Sem Informação     | 5 bits                 | 250 - 350 km  |
+| PALSAR | Polarimetric             | 1270 MHz (Banda L) | Sem Informação | 8º - 30º         | HH+HV+VH+VV    | 24 - 89 m           | Sem Informação     | 3 a 5 bits             | 20 - 65 km    |
+
 - ASTER
 - CATOSAT-1
 - FORMOSAT-2
