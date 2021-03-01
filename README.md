@@ -2,7 +2,25 @@
 
 ## Satélites para aquisição/montagem de imagens estereoscópicas
 
-- [ALOS PRISM](http://www.engesat.com.br/imagem-de-satelite/alos-prism/) O ALOS pode ser descrito como algo que se aproxima ALOS do satélite ideal, por oferecer imagens de alta ( PRISM de 2,50 m PAN)  e média (AVNIR-2 de 10 m colorido)  resolução e também imagens Radar. Com farto catalogo de imagens adquiridas, ele ainda é muito procurado e oferece dados de ótima qualidade radiométrica e geométrica.
+- [Satélite ALOS sensor PRISM](http://www.engesat.com.br/imagem-de-satelite/alos-prism/) 
+O satélite ALOS da missão ALOS (Advanced Land Observing Satellite) que foi lançado em 24 de janeiro de 2006 pela Japan Aerospace Exploration Agency – JAXA pode ser descrito como algo que se aproxima ALOS do satélite ideal, por oferecer imagens de alta ( PRISM de 2,50 m PAN)  e média (AVNIR-2 de 10 m colorido)  resolução e também imagens Radar. Com farto catalogo de imagens adquiridas, ele ainda é muito procurado e oferece dados de ótima qualidade radiométrica e geométrica.
+| Agência                    | JAXA                     | JAXA                      |
+|----------------------------|--------------------------|---------------------------|
+| País/Regisão               | Japão                    | Japão                     |
+| Satélite                   | ALOS - Daichi            | ALOS 2 - Daichi II        |
+| Lançamento                 | 24/01/2006 a 12/05/2011  | 24/05/2014                |
+| Local de Lançamento        | Tanegashima Space Center | Tanegashima Space Center  |
+| Veículo Lançador           | H-IIA 8                  | H-IIA                     |
+| Situação Atual             | Inativo                  | Ativo                     |
+| Órbita                     | heliossíncrona           | heliossíncrona            |
+| Altitude                   | 691,65 km                | 692 km                    |
+| Inclinação                 | 98,16º                   | 98,2º                     |
+| Tempo de Duração da Órbita | 98,7 min                 | 97,4 min                  |
+| Horário de Passagem        | 10:30 A.M.               | s.d.                      |
+| Período de Revisita        | 46 dias                  | s.d.                      |
+| Tempo de Vida Projetado    | 3 a 5 anos               | 3 a 5 anos                |
+| Instrumentos Sensores      | PRISM, AVNIR-2 e PALSAR  | PRISM, AVNIR-2 e PALSAR-2 |
+
 - ASTER
 - CATOSAT-1
 - FORMOSAT-2
